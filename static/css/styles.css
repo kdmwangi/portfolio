@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+nav li a{
+    padding: 1rem;
+}
+nav li a:hover{
+
+    hover:bg-sky-700
+}
+.hover\:bg-sky-700:hover {
+  background-color: #0369a1;
+}
+li{
+    list-style: none;
+}
